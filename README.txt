@@ -1,0 +1,3 @@
+Not: Uygulama kodlarının incelenmesi veya Visual Studio Code gibi geliştirme ortamlarında çalıştırılması durumunda, .py uzantılı tüm Python dosyalarının aynı dizin yapısı içerisinde bulunmasına dikkat edilmelidir. Bu dosyalar birbirlerine import edilerek bağımlı çalıştıkları için, klasör yapısının bozulması modüllerin düzgün bir şekilde çalışmamasına neden olabilir.
+
+Uygulamanın derlenmiş (executable) sürümleri dist/ dizini içerisinde yer almaktadır. İlgili çalıştırılabilir dosyalar bu klasör altında bulunarak doğrudan kullanılabilir.
