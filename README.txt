@@ -31,6 +31,7 @@ cd PE-File-Scanner-Section-Based-Threat-Detection-Tool.git
 pip install pefile
 ```
 
+
 ## 🖼️ Ekran Görüntüleri
 
 ### Uygulama 1 – Dosya Okuma
