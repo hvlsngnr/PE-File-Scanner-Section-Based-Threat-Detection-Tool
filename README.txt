@@ -30,8 +30,8 @@ git clone https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detec
 cd PE-File-Scanner-Section-Based-Threat-Detection-Tool.git
 pip install pefile
 
-## 🖼️ Ekran Görüntüleri
 
+## 🖼️ Ekran Görüntüleri
 ### Uygulama 1 – Dosya Okuma
 ![Uygulama 1](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama1.png)
 ### Uygulama 2 – Kelime Arama
