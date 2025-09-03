@@ -29,15 +29,19 @@ Bu proje, **dosya okuma, içerik arama, klasör tarama ve PE (Portable Executabl
 git clone https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool.git
 cd PE-File-Scanner-Section-Based-Threat-Detection-Tool.git
 pip install pefile
-
+```
 
 ## 🖼️ Ekran Görüntüleri
+
 ### Uygulama 1 – Dosya Okuma
 ![Uygulama 1](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama1.png)
+
 ### Uygulama 2 – Kelime Arama
 ![Uygulama 2](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama2.png)
+
 ### Uygulama 3 – Klasör Taraması
 ![Uygulama 3](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama3.png)
+
 ### Uygulama 4 – PE Analizi
 ![Uygulama 4](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama4.png)
 
