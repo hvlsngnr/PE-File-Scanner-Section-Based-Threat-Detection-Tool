@@ -36,15 +36,16 @@ cd PE-File-Scanner-Section-Based-Threat-Detection-Tool/dist/uygulama1
 
 ## 🖼️ Ekran Görüntüleri
 
-###Uygulama1.exe
+### Uygulama1.exe
 ![Uygulama 1](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama1.png)
 
-###Uygulama2.exe
+### Uygulama2.exe
 ![Uygulama 2](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama2.png)
 
-###Uygulama3.exe
+### Uygulama3.exe
 ![Uygulama 3](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama3.png)
 
-###Uygulama4.exe
+### Uygulama4.exe
 ![Uygulama 4](https://github.com/hvlsngnr/PE-File-Scanner-Section-Based-Threat-Detection-Tool/blob/main/screenshots/uygulama4.png)
+
 
